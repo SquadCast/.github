@@ -1,6 +1,6 @@
 ## SquadCast API 1.0
 
-<p align="left"> <img src="scapidark" alt="SquadCast API" /> </p>
+<p align="left"> <img src="./scapidark.svg" alt="SquadCast API" /> </p>
 
 
 Welcome to the SquadCast API Guide Space, here you will find examples of different ways you can use the SquadCast API to manage your Podcast Sessions, Shows, and more.
